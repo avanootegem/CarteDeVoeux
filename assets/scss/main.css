@@ -1,0 +1,42 @@
+html {
+  font-size: 62.5%;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #233755;
+}
+
+html section {
+  width: 100vw;
+  height: 100vh;
+}
+
+html .underline {
+  text-decoration: underline;
+}
+
+#form {
+  position: relative;
+}
+
+#form form {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 70vw;
+  height: 70vh;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: #6e0f19;
+  border: solid 20px #0a5514;
+}
+/*# sourceMappingURL=main.css.map */
