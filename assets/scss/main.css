@@ -1,0 +1,124 @@
+html {
+  font-size: 62.5%;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #233755;
+}
+
+html section {
+  width: 100vw;
+  height: 100vh;
+}
+
+html .underline {
+  text-decoration: underline;
+}
+
+#form {
+  position: relative;
+}
+
+#form form {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 70vw;
+  height: 60vh;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: #6e0f19;
+  border: solid 20px #0a5514;
+}
+
+#form form .inputText {
+  width: 60%;
+  height: 8%;
+  text-align: center;
+  font-family: "Christmas";
+  font-size: 3rem;
+  border-radius: 25%;
+  background-color: #0a5514;
+  color: white;
+}
+
+#form form .inputButton {
+  width: 20%;
+  height: 8%;
+  font-family: "Christmas";
+  font-size: 2rem;
+  background-color: #0a5514;
+  color: white;
+}
+
+#cardPage {
+  position: relative;
+}
+
+#cardPage #card {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 70vw;
+  height: 60vh;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: #6e0f19;
+  border: solid 20px #0a5514;
+}
+
+#cardPage #card #message {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 50%;
+  height: 90%;
+  right: 5%;
+}
+
+#cardPage #card #message p {
+  font-family: "Christmas";
+  font-size: 4.5rem;
+}
+
+#cardPage #card #message p:nth-child(2) {
+  padding-left: 5%;
+  width: 90%;
+}
+
+#cardPage #card #message p:nth-child(3) {
+  text-align: right;
+}
+/*# sourceMappingURL=main.css.map */

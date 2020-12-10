@@ -1,0 +1,15 @@
+html {
+    font-size: 62.5%;
+    overflow: hidden;
+    box-sizing: border-box;
+    background-color: $night_blue;
+
+    section {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .underline {
+        text-decoration: underline;
+    }
+}
