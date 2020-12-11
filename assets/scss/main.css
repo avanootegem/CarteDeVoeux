@@ -412,8 +412,8 @@ html .underline {
 }
 
 #text path:nth-child(38) {
-  stroke-dasharray: 141;
-  stroke-dashoffset: 141;
+  stroke-dasharray: 178;
+  stroke-dashoffset: 178;
   fill: transparent;
 }
 
@@ -424,134 +424,134 @@ html .underline {
 }
 
 #text path:nth-child(40) {
-  stroke-dasharray: 149;
-  stroke-dashoffset: 149;
-  fill: transparent;
-}
-
-#text path:nth-child(41) {
-  stroke-dasharray: 149;
-  stroke-dashoffset: 149;
-  fill: transparent;
-}
-
-#text path:nth-child(42) {
-  stroke-dasharray: 74;
-  stroke-dashoffset: 74;
-  fill: transparent;
-}
-
-#text path:nth-child(43) {
-  stroke-dasharray: 97;
-  stroke-dashoffset: 97;
-  fill: transparent;
-}
-
-#text path:nth-child(44) {
-  stroke-dasharray: 186;
-  stroke-dashoffset: 186;
-  fill: transparent;
-}
-
-#text path:nth-child(45) {
-  stroke-dasharray: 74;
-  stroke-dashoffset: 74;
-  fill: transparent;
-}
-
-#text path:nth-child(46) {
-  stroke-dasharray: 178;
-  stroke-dashoffset: 178;
-  fill: transparent;
-}
-
-#text path:nth-child(47) {
-  stroke-dasharray: 109;
-  stroke-dashoffset: 109;
-  fill: transparent;
-}
-
-#text path:nth-child(48) {
   stroke-dasharray: 166;
   stroke-dashoffset: 166;
   fill: transparent;
 }
 
-#text path:nth-child(49) {
+#text path:nth-child(41) {
   stroke-dasharray: 115;
   stroke-dashoffset: 115;
   fill: transparent;
 }
 
-#text path:nth-child(50) {
+#text path:nth-child(42) {
   stroke-dasharray: 65;
   stroke-dashoffset: 65;
   fill: transparent;
 }
 
-#text path:nth-child(51) {
+#text path:nth-child(43) {
   stroke-dasharray: 242;
   stroke-dashoffset: 242;
   fill: transparent;
 }
 
-#text path:nth-child(52) {
+#text path:nth-child(44) {
   stroke-dasharray: 135;
   stroke-dashoffset: 135;
   fill: transparent;
 }
 
-#text path:nth-child(53) {
+#text path:nth-child(45) {
   stroke-dasharray: 107;
   stroke-dashoffset: 107;
   fill: transparent;
 }
 
-#text path:nth-child(54) {
+#text path:nth-child(46) {
   stroke-dasharray: 74;
   stroke-dashoffset: 74;
   fill: transparent;
 }
 
-#text path:nth-child(55) {
-  stroke-dasharray: 149;
-  stroke-dashoffset: 149;
-  fill: transparent;
-}
-
-#text path:nth-child(56) {
+#text path:nth-child(47) {
   stroke-dasharray: 184;
   stroke-dashoffset: 184;
   fill: transparent;
 }
 
-#text path:nth-child(57) {
+#text path:nth-child(48) {
   stroke-dasharray: 101;
   stroke-dashoffset: 101;
   fill: transparent;
 }
 
-#text path:nth-child(58) {
+#text path:nth-child(49) {
   stroke-dasharray: 153;
   stroke-dashoffset: 153;
   fill: transparent;
 }
 
-#text path:nth-child(59) {
+#text path:nth-child(50) {
   stroke-dasharray: 74;
   stroke-dashoffset: 74;
   fill: transparent;
 }
 
-#text path:nth-child(60) {
+#text path:nth-child(51) {
   stroke-dasharray: 149;
   stroke-dashoffset: 149;
   fill: transparent;
 }
 
-#text path:nth-child(61) {
+#text path:nth-child(52) {
   stroke-dasharray: 186;
   stroke-dashoffset: 186;
+  fill: transparent;
+}
+
+#text path:nth-child(53) {
+  stroke-dasharray: 74;
+  stroke-dashoffset: 74;
+  fill: transparent;
+}
+
+#text path:nth-child(54) {
+  stroke-dasharray: 242;
+  stroke-dashoffset: 242;
+  fill: transparent;
+}
+
+#text path:nth-child(55) {
+  stroke-dasharray: 115;
+  stroke-dashoffset: 115;
+  fill: transparent;
+}
+
+#text path:nth-child(56) {
+  stroke-dasharray: 186;
+  stroke-dashoffset: 186;
+  fill: transparent;
+}
+
+#text path:nth-child(57) {
+  stroke-dasharray: 19;
+  stroke-dashoffset: 19;
+  fill: transparent;
+}
+
+#text path:nth-child(58) {
+  stroke-dasharray: 109;
+  stroke-dashoffset: 109;
+  fill: transparent;
+}
+
+#text path:nth-child(59) {
+  stroke-dasharray: 115;
+  stroke-dashoffset: 115;
+  fill: transparent;
+}
+
+#text path:nth-child(60) {
+  stroke-dasharray: 115;
+  stroke-dashoffset: 115;
+  fill: transparent;
+}
+
+#text path:nth-child(61) {
+  stroke-dasharray: 90;
+  stroke-dashoffset: 90;
   fill: transparent;
 }
 
@@ -562,72 +562,12 @@ html .underline {
 }
 
 #text path:nth-child(63) {
-  stroke-dasharray: 242;
-  stroke-dashoffset: 242;
-  fill: transparent;
-}
-
-#text path:nth-child(64) {
-  stroke-dasharray: 115;
-  stroke-dashoffset: 115;
-  fill: transparent;
-}
-
-#text path:nth-child(65) {
-  stroke-dasharray: 186;
-  stroke-dashoffset: 186;
-  fill: transparent;
-}
-
-#text path:nth-child(66) {
-  stroke-dasharray: 19;
-  stroke-dashoffset: 19;
-  fill: transparent;
-}
-
-#text path:nth-child(67) {
-  stroke-dasharray: 109;
-  stroke-dashoffset: 109;
-  fill: transparent;
-}
-
-#text path:nth-child(68) {
-  stroke-dasharray: 115;
-  stroke-dashoffset: 115;
-  fill: transparent;
-}
-
-#text path:nth-child(69) {
-  stroke-dasharray: 115;
-  stroke-dashoffset: 115;
-  fill: transparent;
-}
-
-#text path:nth-child(70) {
-  stroke-dasharray: 90;
-  stroke-dashoffset: 90;
-  fill: transparent;
-}
-
-#text path:nth-child(71) {
-  stroke-dasharray: 74;
-  stroke-dashoffset: 74;
-  fill: transparent;
-}
-
-#text path:nth-child(72) {
-  stroke-dasharray: 149;
-  stroke-dashoffset: 149;
-  fill: transparent;
-}
-
-#text path:nth-child(73) {
   stroke-dasharray: 67;
   stroke-dashoffset: 67;
   fill: transparent;
 }
 
-#text path:nth-child(74) {
+#text path:nth-child(64) {
   stroke-dasharray: 67;
   stroke-dashoffset: 67;
   fill: transparent;

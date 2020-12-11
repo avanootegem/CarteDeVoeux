@@ -2,15 +2,15 @@ const text = document.querySelectorAll("#text path");
 
 let time = 0;
 for(let i = 0; i<text.length; i++) {
+    console.log("Letter "+(i+1)+" is "+text[i].getTotalLength());
     const style = text[i].style;
-    const dash = text[i].getTotalLength();
 
     style.animationName = "line-anim, fill";
-    style.animationDuration = "0.1s";
-    style.animationDelay = time+"s, "+(time+0.05)+"s";
+    style.animationDuration = "0.05s";
+    style.animationDelay = time+"s, "+(time+0.025)+"s";
     style.animationTimingFunction = "ease";
     style.animationFillMode = "forwards";
-    time += 0.1;
+    time += 0.05;
 
     setTimeout(() => {
         style.animationName = "";

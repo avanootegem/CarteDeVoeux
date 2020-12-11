@@ -6,9 +6,9 @@ head(); ?>
         <div id="sapin">
         </div>
         <div id="message">
-            <p>Chèr(e) destinataire, </p>
+            <p>Chèr(e) <?= $_GET['destinataire']?>, </p>
             <p><?php include_once("svg.php");?></p>
-            <p>Moi</p>
+            <p><?= $_GET['envoyeur']?></p>
         </div>
     </div>
 </section>
