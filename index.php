@@ -43,7 +43,7 @@ if(isset($_POST['mailform'])){
 
                     <tr>
                     <span> Veuillez cliquez sur ce 
-                    <a href="https://aurelienv.promo-45.codeur.online/CarteDeVoeux/carte.php?destinataire='.$_POST['destinataire'].'&'.$_POST['envoyeur'].'">lien</a>
+                    <a href="https://aurelienv.promo-45.codeur.online/CarteDeVoeux/carte.php?destinataire='.$_POST['destinataire'].'&envoyeur='.$_POST['envoyeur'].'">lien</a>
                         
                     </tr>
 
