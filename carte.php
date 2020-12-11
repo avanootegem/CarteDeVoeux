@@ -3,9 +3,11 @@ head(); ?>
 
 <section id="cardPage">
     <div id="card">
+        <div id="sapin">
+        </div>
         <div id="message">
-            <p>Chèr(e) destinataire</p>
-            <p>Je te souhaite de passer de merveilleuse fêtes de fin d'année</p>
+            <p>Chèr(e) destinataire, </p>
+            <p><?php include_once("svg.php");?></p>
             <p>Moi</p>
         </div>
     </div>
