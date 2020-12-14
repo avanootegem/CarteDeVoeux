@@ -19,7 +19,7 @@ html .underline {
   position: relative;
 }
 
-#form h1 {
+#form #titleForm {
   position: absolute;
   width: 70vw;
   bottom: calc(80vh + 30px);
@@ -153,7 +153,7 @@ html .underline {
   text-align: right;
 }
 
-#cardPage span {
+#cardPage #acs {
   position: absolute;
   width: 70vw;
   top: calc(80vh + 30px);

@@ -11,7 +11,7 @@ head(); ?>
             <p><?= $_GET['envoyeur']?></p>
         </div>
     </div>
-    <span>Et aussi de la part de l'acs</span>
+    <span id="acs">Et aussi de la part de l'acs</span>
 </section>
 
 <?php foot(); ?>
