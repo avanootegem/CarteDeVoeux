@@ -59,21 +59,21 @@
             }
         }
     }
+}
 
-    #acs {
-        position: absolute;
+#acs {
+    position: absolute;
 
-        width: 70vw;
+    width: 70vw;
 
-        top: calc(80vh + 30px);
-        left: 50%;
-        transform: translateX(-50%);
+    top: calc(80vh + 30px);
+    left: 50%;
+    transform: translateX(-50%);
 
-        font-size: 3rem;
-        font-family: "Christmas";
-        text-align: right;
-        color: $white;
-    }
+    font-size: 3rem;
+    font-family: "Christmas";
+    text-align: right;
+    color: $white;
 }
 
 @media screen and (max-width: 1500px) {

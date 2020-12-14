@@ -1,21 +1,6 @@
 #form {
     position: relative;
 
-    #titleForm {
-        position: absolute;
-
-        width: 70vw;
-
-        bottom: calc(80vh + 30px);
-        left: 50%; 
-        transform: translateX(-50%);
-
-        font-size: 3rem;
-        font-family: "Christmas";
-        text-align: center;
-        color: $white;
-    }
-
     form {
         position: relative;
         display: flex;
@@ -58,6 +43,21 @@
             color: white;
         }
     }
+}
+
+#titleForm {
+    position: absolute;
+
+    width: 70vw;
+
+    bottom: calc(80vh + 30px);
+    left: 50%; 
+    transform: translateX(-50%);
+
+    font-size: 3rem;
+    font-family: "Christmas";
+    text-align: center;
+    color: $white;
 }
 
 @media screen and (max-width: 1250px) {
