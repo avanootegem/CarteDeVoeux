@@ -19,6 +19,19 @@ html .underline {
   position: relative;
 }
 
+#form h1 {
+  position: absolute;
+  width: 70vw;
+  bottom: calc(80vh + 30px);
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 3rem;
+  font-family: "Christmas";
+  text-align: center;
+  color: #c8c8c8;
+}
+
 #form form {
   position: relative;
   display: -webkit-box;
@@ -61,6 +74,12 @@ html .underline {
   font-size: 2rem;
   background-color: #0a5514;
   color: white;
+}
+
+@media screen and (max-width: 1250px) {
+  #form form {
+    width: 80vw;
+  }
 }
 
 #cardPage {
@@ -132,6 +151,19 @@ html .underline {
 
 #cardPage #card #message p:nth-child(3) {
   text-align: right;
+}
+
+#cardPage span {
+  position: absolute;
+  width: 70vw;
+  top: calc(80vh + 30px);
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 3rem;
+  font-family: "Christmas";
+  text-align: right;
+  color: #c8c8c8;
 }
 
 @media screen and (max-width: 1500px) {
