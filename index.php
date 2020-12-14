@@ -40,8 +40,8 @@ if(isset($_POST['mailform'])){
 
 ?>
 
+<h1 id="titleForm"> Sélectionnez un destinataire pour la carte de voeux </h1>
 <section id="form">
-    <h1 id="titleForm"> Sélectionnez un destinataire pour la carte de voeux </h1>
     <form method="post">
         <input type="text" name="mail" id="mail" placeholder="Adresse mail destinataire" class="inputText">
         <input type="text" name="destinataire" id="destinataire" placeholder="Prénom du destinataire" class="inputText">

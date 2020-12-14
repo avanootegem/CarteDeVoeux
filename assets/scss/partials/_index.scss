@@ -43,21 +43,21 @@
             color: $white_2;
         }
     }
+}
 
-    #titleForm {
-        position: absolute;
-    
-        width: 70vw;
-    
-        bottom: calc(80vh + 30px);
-        left: 50%; 
-        transform: translateX(-50%);
-    
-        font-size: 3rem;
-        font-family: "Christmas";
-        text-align: center;
-        color: $white_2;
-    }
+#titleForm {
+    position: absolute;
+
+    width: 70vw;
+
+    bottom: calc(80vh + 30px);
+    left: 50%; 
+    transform: translateX(-50%);
+
+    font-size: 3rem;
+    font-family: "Christmas";
+    text-align: center;
+    color: $white_2;
 }
 
 @media screen and (max-width: 1250px) {
