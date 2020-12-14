@@ -59,22 +59,24 @@
             }
         }
     }
+    
+    #acs {
+        position: absolute;
+
+        width: 70vw;
+
+        top: calc(80vh + 30px);
+        left: 50%;
+        transform: translateX(-50%);
+
+        font-size: 3rem;
+        font-family: "Christmas";
+        text-align: right;
+        color: $white;
+    }
 }
 
-#acs {
-    position: absolute;
 
-    width: 70vw;
-
-    top: calc(80vh + 30px);
-    left: 50%;
-    transform: translateX(-50%);
-
-    font-size: 3rem;
-    font-family: "Christmas";
-    text-align: right;
-    color: $white;
-}
 
 @media screen and (max-width: 1500px) {
     #cardPage {
