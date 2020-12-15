@@ -63,6 +63,19 @@ html .underline {
   color: #c8c8c8;
 }
 
+#titleForm {
+  position: absolute;
+  width: 70vw;
+  bottom: calc(80vh + 30px);
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 3rem;
+  font-family: "Christmas";
+  text-align: center;
+  color: #c8c8c8;
+}
+
 @media screen and (max-width: 1250px) {
   #form form {
     width: 80vw;
