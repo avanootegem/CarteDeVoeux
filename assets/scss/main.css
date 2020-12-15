@@ -63,22 +63,41 @@ html .underline {
   color: #c8c8c8;
 }
 
-#titleForm {
-  position: absolute;
-  width: 70vw;
-  bottom: calc(80vh + 30px);
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
-  font-size: 3rem;
-  font-family: "Christmas";
-  text-align: center;
-  color: #c8c8c8;
-}
-
 @media screen and (max-width: 1250px) {
   #form form {
     width: 80vw;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  #form form {
+    width: 90vw;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  #form form {
+    width: 95vw;
+    height: 85vh;
+    border-width: 10px;
+  }
+  #form form .inputText {
+    width: 80%;
+  }
+  #form form .inputButton {
+    width: 35%;
+  }
+  #titleForm {
+    position: absolute;
+    width: 100vw;
+    top: 0.5vh;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+    font-size: 3rem;
+    font-family: "Christmas";
+    text-align: center;
+    color: #c8c8c8;
   }
 }
 
@@ -181,10 +200,16 @@ html .underline {
   #cardPage #card {
     width: 80vw;
   }
+  #acs {
+    width: 80vw;
+  }
 }
 
 @media screen and (max-width: 1100px) {
   #cardPage #card {
+    width: 90vw;
+  }
+  #acs {
     width: 90vw;
   }
 }
@@ -192,7 +217,8 @@ html .underline {
 @media screen and (max-width: 950px) {
   #cardPage #card {
     width: 95vw;
-    height: 95vh;
+    height: 85vh;
+    border-width: 10px;
   }
   #cardPage #card #message {
     position: absolute;
@@ -218,6 +244,13 @@ html .underline {
     height: 95%;
     left: 0;
     opacity: 50%;
+  }
+  #acs {
+    height: 5vh;
+    width: 90vw;
+    top: 95vh;
+    left: 54vw;
+    font-size: 2.2rem;
   }
 }
 
