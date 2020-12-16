@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="assets/scss/reset.css">
     <link rel="stylesheet" href="assets/scss/fonts.css">
     <link rel="stylesheet" href="assets/scss/main.css">
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 </head>
 
 <body>
