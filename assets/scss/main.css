@@ -39,8 +39,8 @@ html .underline {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: #6e0f19;
-  border: solid 20px #0a5514;
+  background-color: #E74C3C;
+  border: solid 20px #27AE60;
 }
 
 #form form .inputText {
@@ -52,8 +52,8 @@ html .underline {
   border-radius: 15%;
   outline: none;
   border: none;
-  background-color: #0a5514;
-  color: #c8c8c8;
+  background-color: #27AE60;
+  color: #233755;
 }
 
 #form form .inputButton {
@@ -64,8 +64,8 @@ html .underline {
   border-radius: 10%;
   outline: none;
   border: none;
-  background-color: #0a5514;
-  color: #c8c8c8;
+  background-color: #27AE60;
+  color: #233755;
 }
 
 #titleForm {
@@ -143,8 +143,8 @@ html .underline {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: #6e0f19;
-  border: solid 20px #0a5514;
+  background-color: #E74C3C;
+  border: solid 20px #27AE60;
 }
 
 #cardPage #card #sapin {
@@ -274,6 +274,7 @@ html .underline {
 
 #text path {
   fill: transparent;
+  stroke: #c8c8c8;
 }
 
 #text path:nth-child(1) {
